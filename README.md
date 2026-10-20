@@ -7,4 +7,5 @@ asjhdkahd
 https://github.com/TarekElwan00/DBF_T3_2026/blob/main/linux.jpg
 
 
-<img width="602" height="698" alt="Picture1-1" src="[https://github.com/user-attachments/assets/d9faafeb-eef4-48f6-8a64-7624845b88e3](https://github.com/TarekElwan00/DBF_T3_2026/blob/main/linux.jpg)" />
+
+<img width="447" height="447" alt="linux" src="https://github.com/user-attachments/assets/532e1b8e-6be2-43e2-9b56-d16036bba676" />
